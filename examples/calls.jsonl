@@ -1,0 +1,3 @@
+{"id": "search-small-page", "tool": "search", "arguments": {"query": "docs", "limit": 5, "mode": "brief"}, "output": {"count": 2}}
+{"id": "search-large-page", "tool": "search", "arguments": {"query": "docs", "limit": 50}}
+{"id": "search-retired-mode", "tool": "search", "arguments": {"query": "docs", "mode": "full"}}

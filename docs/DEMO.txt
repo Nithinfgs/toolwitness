@@ -1,0 +1,14 @@
+Toolwitness: regressions
+3 fixtures | 1 changes | 0 coverage gaps
+
+"search-large-page" / "search" [input]: regression
+  maximum at "/limit" (schema "/properties/limit/maximum")
+"search-retired-mode" / "search" [input]: regression
+  enum at "/mode" (schema "/properties/mode/enum")
+"search-small-page" / "search" [input]: accepted
+"search-small-page" / "search" [output]: accepted
+
+Catalog changes:
+  "search": "inputSchema"
+
+Saved examples only. Passing is not proof of general compatibility or runtime safety.

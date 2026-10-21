@@ -1,0 +1,212 @@
+[
+  {
+    "period": "daily",
+    "url": "https://github.com/trending?since=daily",
+    "rows": [
+      {
+        "repo": "cloudflare/security-audit-skill",
+        "period_stars": 1997
+      },
+      {
+        "repo": "vllm-project/vllm",
+        "period_stars": 439
+      },
+      {
+        "repo": "stablyai/orca",
+        "period_stars": 1543
+      },
+      {
+        "repo": "headroomlabs-ai/headroom",
+        "period_stars": 477
+      },
+      {
+        "repo": "DietrichGebert/ponytail",
+        "period_stars": 2051
+      },
+      {
+        "repo": "Comfy-Org/ComfyUI",
+        "period_stars": 914
+      },
+      {
+        "repo": "supabase/supabase",
+        "period_stars": 509
+      },
+      {
+        "repo": "twentyhq/twenty",
+        "period_stars": 105
+      },
+      {
+        "repo": "shiyu-coder/Kronos",
+        "period_stars": 570
+      },
+      {
+        "repo": "strelov1/freehire",
+        "period_stars": 396
+      },
+      {
+        "repo": "akitaonrails/ai-memory",
+        "period_stars": 303
+      },
+      {
+        "repo": "Graphify-Labs/graphify",
+        "period_stars": 1434
+      }
+    ]
+  },
+  {
+    "period": "weekly",
+    "url": "https://github.com/trending?since=weekly",
+    "rows": [
+      {
+        "repo": "morluto/rea",
+        "period_stars": 157631
+      },
+      {
+        "repo": "anthropics/claude-plugins-official",
+        "period_stars": 5650
+      },
+      {
+        "repo": "K-Dense-AI/scientific-agent-skills",
+        "period_stars": 4549
+      },
+      {
+        "repo": "ruvnet/ruflo",
+        "period_stars": 3143
+      },
+      {
+        "repo": "android/skills",
+        "period_stars": 1255
+      },
+      {
+        "repo": "NationalSecurityAgency/ghidra",
+        "period_stars": 6184
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "period_stars": 17057
+      },
+      {
+        "repo": "mksglu/context-mode",
+        "period_stars": 3556
+      },
+      {
+        "repo": "heygen-com/hyperframes",
+        "period_stars": 5994
+      },
+      {
+        "repo": "cursor/plugins",
+        "period_stars": 2040
+      },
+      {
+        "repo": "HKUDS/CLI-Anything",
+        "period_stars": 3587
+      },
+      {
+        "repo": "akitaonrails/ai-memory",
+        "period_stars": 2640
+      },
+      {
+        "repo": "anomalyco/opencode",
+        "period_stars": 5792
+      },
+      {
+        "repo": "wshobson/agents",
+        "period_stars": 665
+      },
+      {
+        "repo": "earthtojake/text-to-cad",
+        "period_stars": 2069
+      },
+      {
+        "repo": "stablyai/orca",
+        "period_stars": 8173
+      }
+    ]
+  },
+  {
+    "period": "monthly",
+    "url": "https://github.com/trending?since=monthly",
+    "rows": [
+      {
+        "repo": "paperclipai/paperclip",
+        "period_stars": 24372
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "period_stars": 45470
+      },
+      {
+        "repo": "vectorize-io/hindsight",
+        "period_stars": 28261
+      },
+      {
+        "repo": "heygen-com/hyperframes",
+        "period_stars": 16644
+      },
+      {
+        "repo": "NVIDIA/OpenShell",
+        "period_stars": 8173
+      },
+      {
+        "repo": "mksglu/context-mode",
+        "period_stars": 7699
+      },
+      {
+        "repo": "cloudflare/security-audit-skill",
+        "period_stars": 15824
+      },
+      {
+        "repo": "NationalSecurityAgency/ghidra",
+        "period_stars": 13031
+      },
+      {
+        "repo": "tashfeenahmed/freellmapi",
+        "period_stars": 10683
+      },
+      {
+        "repo": "anthropics/knowledge-work-plugins",
+        "period_stars": 5496
+      },
+      {
+        "repo": "anthropics/claude-plugins-official",
+        "period_stars": 6997
+      },
+      {
+        "repo": "cursor/plugins",
+        "period_stars": 5033
+      },
+      {
+        "repo": "anthropics/financial-services",
+        "period_stars": 5457
+      },
+      {
+        "repo": "rohitg00/ai-engineering-from-scratch",
+        "period_stars": 16986
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "period_stars": 22836
+      },
+      {
+        "repo": "earthtojake/text-to-cad",
+        "period_stars": 5836
+      },
+      {
+        "repo": "TencentCloud/Octop",
+        "period_stars": 6143
+      },
+      {
+        "repo": "pbakaus/impeccable",
+        "period_stars": 14636
+      },
+      {
+        "repo": "pingdotgg/t3code",
+        "period_stars": 5793
+      },
+      {
+        "repo": "HKUDS/CLI-Anything",
+        "period_stars": 6135
+      }
+    ]
+  }
+]

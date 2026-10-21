@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling>=1.26,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "toolwitness"
+version = "0.1.0"
+description = "Offline, fixture-backed evidence for MCP tool contract changes"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = ["jsonschema>=4.23,<5", "referencing>=0.35,<1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "pytest-cov>=6,<8", "ruff>=0.11,<1", "mypy>=1.15,<2", "types-jsonschema", "build>=1.2,<2", "pip-audit>=2.9,<3"]
+
+[project.scripts]
+toolwitness = "toolwitness.cli:main"
+
+[project.urls]
+Repository = "https://github.com/Nithinfgs/toolwitness"
+Issues = "https://github.com/Nithinfgs/toolwitness/issues"
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
